@@ -5,6 +5,9 @@ async function main() {
   const contractFactory = await ethers.getContractFactory("TokenSlabs");
   const TokenSlabs = await contractFactory.deploy(SLABVALUES);
   await TokenSlabs.deployed();
+
+
+  console.log("tokenSlabs address", TokenSlabs.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
