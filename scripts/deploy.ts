@@ -8,6 +8,7 @@ async function main() {
 
 
   console.log("tokenSlabs address", TokenSlabs.address);
+  console.log("contract deployed")
 }
 
 // We recommend this pattern to be able to use async/await everywhere
