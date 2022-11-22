@@ -6,7 +6,7 @@ contract address : 0x645fbE84BF42611Bb97Be614FF56068a3Db70c94
 
 # Usage
 
-- Run `npx hardhat run scripts/deploy.ts --network Sepolia` to deploy the contract on Sepolia testnet. Do not forget to clone the .env.example and fill in the values
+- Run `npx hardhat run scripts/deploy.ts --network goerli ` to deploy the contract on goerli testnet. 
 
 # Features
 
