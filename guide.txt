@@ -1,5 +1,5 @@
 # Setup
-
+contract address : 0x645fbE84BF42611Bb97Be614FF56068a3Db70c94
 - Run `npm i` to install dependencies
 - Run `npx hardhat compile` to compile
 - Run `npx hardhat test` to test the contracts
